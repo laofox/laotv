@@ -72,7 +72,7 @@
   },
   "sites": [{
     "key": "djdjs",
-    "name": "🙀一木缝合源║1.15更新",
+    "name": "🙀一木缝合源║1.16更新",
     "type": 3,
     "api": "",
     "searchable": 1,
@@ -166,14 +166,15 @@
       "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
     },
     {
-      "key": "csp_Panghu",
-      "name": "🐯胖虎〔SP〕",
+      "key": "Lgyy",
+      "name": " 📽 蓝光〔SP〕",
       "type": "3",
-      "api": "csp_Panghu",
+      "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%83%96%E8%99%8E.jar"
+      "ext": "b2e573ff040fcd54b50475660ee1a7d1",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
     },
     {
       "key": "csp_Bttoo",
@@ -262,7 +263,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.jar"
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.jar"
     },
     {
       "key": "jjnnj",
