@@ -72,7 +72,7 @@
   },
   "sites": [{
     "key": "djdjs",
-    "name": "🙀一木缝合源║1.16更新",
+    "name": "🙀一木缝合源║1.27更新",
     "type": 3,
     "api": "",
     "searchable": 1,
@@ -244,14 +244,15 @@
       "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.jar"
     },
     {
-      "key": "csp_Auete",
-      "name": "🐼Auete〔SP〕",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"
+      "key": "Hei19",
+      "name": "🐼石榴〔SP〕",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E7%9F%B3%E6%A6%B4.jar"
     },
     {
       "key": "Yyy",
@@ -264,106 +265,6 @@
       "searchable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
       "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.jar"
-    },
-    {
-      "key": "jjnnj",
-      "name": "🤖以下为官方资源🤖",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "4",
-      "name": "🤖以下为官方资源🤖",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SPQQ",
-      "name": "🐧腾讯不推🗡️(官)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
-    },
-    {
-      "key": "SPIQY",
-      "name": "🥝爱奇艺不推🗡️(官)",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
-    },
-    {
-      "key": "MGT",
-      "name": "🥭芒果不推🗡️(官)",
-      "type": 3,
-      "api": "csp_Mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
-    },
-    {
-      "key": "youku",
-      "name": "👑优酷不推🗡️(官)",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "动画片",
-        "武侠片",
-        "奇幻片",
-        "少儿",
-        "其他片"
-      ],
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
-    },
-    {
-      "key": "csp_SP361",
-      "name": "💘360不推🗡️(官)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "18",
-      "name": "",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "6",
@@ -384,6 +285,27 @@
       "filterable": 1
     },
     {
+      "key": "Ddys",
+      "name": "💢低端〔XB〕",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "1cc92323700909e7d46623bc85b958d6",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E4%BD%8E%E7%AB%AF.jar"
+    },
+    {
+      "key": "csp_xp_yinfans",
+      "name": "💢音范丝4K磁力〔XB〕",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/音范丝4k.json"
+    },
+    {
       "key": "csp_xp_789kp",
       "name": "💢789 看片〔XB〕",
       "type": 3,
@@ -392,16 +314,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/789.json"
-    },
-    {
-      "key": "csp_xp_wnvod",
-      "name": "💢万能影视〔XB〕",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/万能影视.json"
     },
     {
       "key": "csp_xp_tjyy",
@@ -422,16 +334,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
-    },
-    {
-      "key": "csp_biubiu_骚火电影",
-      "name": "💢骚火影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/骚火电影.json"
     },
     {
       "key": "csp_xbb_达达龟",
@@ -467,14 +369,16 @@
       }
     },
     {
-      "key": "csp_biubiuLIBVIO",
+      "key": "csp_Lib",
       "name": "💢LIBVIO(XB)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_Lib",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/LIBVIO.json"
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/LIBVIO.jar"
+
     },
     {
       "key": "csp_xBPQ_诺讯影视",
@@ -541,16 +445,6 @@
       "filterable": 1
     },
     {
-      "key": "mtv_xp_异次动漫",
-      "name": "🐯异次动漫　",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/异次元动漫.json"
-    },
-    {
       "key": "mtv_xp_动漫岛源",
       "name": "😸动漫岛源　",
       "type": 3,
@@ -597,6 +491,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%8A%A8%E6%BC%AB%E5%8C%85jar/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.txt"
+    },{
+      "key": "5454",
+      "name": "",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "8",
@@ -771,27 +673,6 @@
       "filterable": 0,
       "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
       "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"
-    },
-    {
-      "key": "csp_Alist1",
-      "name": "网盘仓库",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "米奇妙妙屋$https://anime.mqmmw.ga#晴园的宝藏库$https://alist.52qy.repl.co#梓澪$https://zi0.cc#木偶$https://www.kugutsu.ml#课程搜索$https://www.souke365.cn#博哥$http://www.top12345.top#Eren's$https://alist.sharefiles.repl.co#资源小站$https://pan.142856.xyz#小兵组网盘影视$https://6vv.app#星梦$https://pan.bashroot.top#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#资源小站$https://960303.xyz#Alist测试$https://ali.liucn.repl.co#秋雨分享$https://share.laowang.me#一只鱼$https://alist.youte.ml#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com",
-      "jar": "https://pan.szfx.top/down.php/285d80f6e19e2613ea305083f84bd95a.jar"
-    },
-    {
-      "key": "csp_Alist2",
-      "name": "网盘仓库2",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "csp_Alist3",
