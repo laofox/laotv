@@ -17,7 +17,7 @@
 
 [主用接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json)
 
-[备用接口](http://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/备用.json)
+[备用接口](https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json)
 
 ### 空壳版本
 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
