@@ -1,7 +1,7 @@
 //一木多线路源
 //仅供自用
 {"urls": [
-
+{"url": "","name":"🍎3.15更新"},
 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json","name":"🍎一木主用"},
 {"url": "http://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/备用.json","name":"🍎一木备用"},
 {"url": "http://饭太硬.ga/tv","name":"🚀饭太硬"},
@@ -17,11 +17,6 @@
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 			"name": "🚀南风线路"
-		},
-
-		{
-			"url": "https://hutool.ml/tang",
-			"name": "🚀唐三"
 		},
 		{
 
