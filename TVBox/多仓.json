@@ -2,8 +2,8 @@
 {
 "storeHouse":
 [
-{"sourceName":"🌚3.15更新","sourceUrl":""},
-{"sourceName":"🌲一木多仓推荐","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"},{"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"🌚3.29更新","sourceUrl":""},
+{"sourceName":"🌲一木多仓推荐","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"},{"sourceName":"云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库.json"},
 {"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
 {"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
 {"sourceName": "安卓哥JS仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
