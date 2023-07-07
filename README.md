@@ -21,18 +21,24 @@
 
 ## 🐳在线接口
 
+[多线路接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json)
+
 [主用接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json)
 
 [备用接口](https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json)
 
 ### 推荐空壳版本
-1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
+密码666
 
-2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
+1.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/8e5324489582b940beb2bc9096f58f9131806c5a/一木源/tu/IMG_20230708_021944.jpg) 🥂🥂🥂横版平板电视推荐 - [影视仓](https://qiqi2020.lanzoub.com/b09svqv1c)
 
-3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
+2.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/0ea37c5de552f39ab79cad2d4dd1e940db21bd78/一木源/tu/IMG_20230708_023440.jpg) 🥂🥂竖屏横屏二次开发版-密码222 [影视](https://qiqi2020.lanzoub.com/b09svqv1c)
 
-4.![box](https://m.360buyimg.com/babel/jfs/t1/162781/30/28931/2875/6373f2baEf0eb98ec/2c8b0baabc5c7afa.png) 二次开发 - [手机竖屏版](https://support.qq.com/embed/phone/428437/faqs/127190)
+3.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/8e5324489582b940beb2bc9096f58f9131806c5a/一木源/tu/IMG_20230708_022030.jpg) 🥂🥂🥂竖屏美化版 - [easybox](https://qiqi2020.lanzoub.com/b09svqv1c)
+
+4.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/0ea37c5de552f39ab79cad2d4dd1e940db21bd78/一木源/tu/IMG_20230708_023111.jpg) 🥂🥂二次开发竖屏版 - [影迷](https://qiqi2020.lanzoub.com/b09svqv1c)
+
+5.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/803096ca694e26bf4e4b71b7b87e0ec52d4acdc6/一木源/tu/2c8b0baabc5c7afa.png) 🥂🥂二次开发竖屏版- [影音壳子](https://support.qq.com/embed/phone/428437/faqs/127190)
 
 
 
