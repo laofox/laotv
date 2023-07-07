@@ -25,7 +25,7 @@
 
 [备用接口](https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json)
 
-### 空壳版本
+### 推荐空壳版本
 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
 
 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
