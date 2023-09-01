@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "",
-            "name": "🥐8.9更新"
+            "name": "🥐9.1更新此接口免费"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json",
@@ -27,10 +27,6 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json",
             "name": "🚀酷安潇洒哥线路"
-        },
-        {
-            "url": "http://jk.itvbox.cc:66/tvbox/云星日记/1.m3u8",
-            "name": "🚀云星家庭版"
         },
         {
             "url": "http://w.g9.pub:66/f/6Y3sy/%E7%88%BD%E7%BF%BB%E5%A4%A9.txt",
@@ -93,14 +89,6 @@
             "name": "🚀运输车路"
         },
         {
-            "url": "https://gitee.com/zalman2022/mytv/raw/master/xiaohuang.json",
-            "name": "🚀磁力线路"
-        },
-        {
-            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
-            "name": "🚀lekan"
-        },
-        {
             "url": "https://yydsys.top/duo",
             "name": "🚀多多接口"
         },
@@ -119,14 +107,6 @@
         {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "🚀dxawi线路"
-        },
-        {
-            "url": "https://www.xzbgg.top/tvbox.json",
-            "name": "🚀酷友小张不咕咕线路"
-        },
-        {
-            "url": "https://download.kstore.space/download/3313/mao/ymz",
-            "name": "🚀夜猫子线路线路"
         }
     ]
 }
