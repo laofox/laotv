@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "",
-            "name": "🥐9.1更新此接口免费"
+            "name": "🥐9.9更新此接口免费"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json",
@@ -17,6 +17,10 @@
             "name": "🚀饭太硬推荐"
         },
         {
+            "url": "http://fan.xxooo.cf/tv",
+            "name": "🚀饭太硬备用"
+        },
+        {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
             "name": "🚀宝盒线路推荐"
         },
@@ -27,14 +31,6 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json",
             "name": "🚀酷安潇洒哥线路"
-        },
-        {
-            "url": "http://w.g9.pub:66/f/6Y3sy/%E7%88%BD%E7%BF%BB%E5%A4%A9.txt",
-            "name": "🚀爽翻天线路"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米暴脾气线路"
         },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
@@ -51,6 +47,14 @@
         {
             "url": "http://bbs.itvba.cn/tv/video/tv4k.json",
             "name": "🚀爱tv"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车路"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "🚀多多接口"
         },
         {
             "url": "http://rihou.cc:99/荷城茶秀",
@@ -79,18 +83,6 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀高天流云 XYQ"
-        },
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "🚀肥猫线路"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车路"
-        },
-        {
-            "url": "https://yydsys.top/duo",
-            "name": "🚀多多接口"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
