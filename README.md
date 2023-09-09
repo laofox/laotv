@@ -32,7 +32,7 @@
 
 ![Image](http://p1.meituan.net/csc/05fd76d302417e56fcfcf9992080b1ed1342462.jpg)
 
-[仓库地址](https://github.com/youshandefeiyang/LiveRedirect)
+[仓库地址](https://github.com/youshandefeiyang/live-Url)
 
 注意，如果是ipv6直播源请打开下面的网站检查自己的网络是否支持ipv6
 
