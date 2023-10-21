@@ -1,8 +1,10 @@
+//目前垃圾线路有 老刘备
+
 {
     "urls": [
         {
             "url": "",
-            "name": "🥐9.21更新此接口免费"
+            "name": "🥐10.21更新此接口免费"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json",
@@ -21,8 +23,12 @@
             "name": "🚀饭太硬备用"
         },
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "🚀宝盒线路推荐"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "🚀宝盒线路"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
+            "name": "🚀香雅情镜像线路"
         },
         {
             "url": "https://xn--3d2a1b.eu.org/",
@@ -39,6 +45,10 @@
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧计线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
+            "name": "🚀乐享汇线路"
         },
         {
             "url": "http://t.84jia.com:80/tvbox/tvbox.json",
@@ -83,10 +93,6 @@
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🚀神器线路"
-        },
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀老刘备线路"
         },
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
