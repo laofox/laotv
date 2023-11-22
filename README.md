@@ -21,7 +21,7 @@
 
 ## 🐳在线接口
 
-[多线路接口](https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json)
+[多线路接口](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json)
 
 [多线路备用接口](https://ghcy.eu.org/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json)
 
